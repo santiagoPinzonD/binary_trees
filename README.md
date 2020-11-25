@@ -1,12 +1,10 @@
 # 0x1D. C - Binary trees
 
-# Learning Objectives
 
-# Más información
 # Estructuras de datos
 Utilice las siguientes estructuras y tipos de datos para árboles binarios. No olvide incluirlos en su archivo de encabezado.
 
-## Árbol binario básico
+# Árbol binario básico
 
     /**
     * struct binary_tree_s - Binary tree node
