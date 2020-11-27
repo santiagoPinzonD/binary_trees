@@ -59,5 +59,6 @@ int refer_d_left(const binary_tree_t *tree);
 
 int height(const binary_tree_t *tree);
 int max(int a, int b);
-
+void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int));
+void func_level(const binary_tree_t *tree, int level, void (*func)(int));
 #endif /* BINARY_TREES_H */
